@@ -12,6 +12,7 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
+- :briefcase: &nbsp;Check my **[Portfolio]**
 
 <br>
 
@@ -174,3 +175,4 @@
 [linkedin]: https://www.linkedin.com/in/juanbenitezdev/ "LinkedIn"
 [twitter]: https://twitter.com/juanbenitezdev "Twitter"
 [blog]: https://dev.to/juanbenitezdev "Blog"
+[portfolio]: https://juanbenitez.dev "Portfolio"
