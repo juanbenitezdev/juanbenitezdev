@@ -9,7 +9,7 @@
 - :office: &nbsp;I'm currently working at **Elemento43 SAS**
 - :seedling: &nbsp;I’m currently learning **Web3.0**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :mailbox: &nbsp;Ask me about anything
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 - :briefcase: &nbsp;Check my **[Portfolio]**
