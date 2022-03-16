@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juanbenitezdev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Juan Benitez" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Elemento43 SAS**
+- :office: &nbsp;I'm currently working at **Unravel B.V**
 - :seedling: &nbsp;I’m currently learning **Web3.0**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :mailbox: &nbsp;Ask me about anything
