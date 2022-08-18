@@ -1,12 +1,12 @@
 <h1 align="left">:wave: Hello there! I'm Juan Benitez</h1>
-<h3 align="left">I am a Software Developer</h3>
+<h3 align="left">I am a Software Engineer</h3>
 
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=juanbenitezdev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Juan Benitez" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Unravel B.V**
+- :office: &nbsp;I'm currently working at **EPAM Systems**
 - :seedling: &nbsp;I’m currently learning **Web3.0**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :mailbox: &nbsp;Ask me about anything
